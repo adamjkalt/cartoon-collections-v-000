@@ -15,7 +15,7 @@ calls.each do |call|
   if call.length > 4
     return true
   else
-    return false
+    false
 end
 end
 end
